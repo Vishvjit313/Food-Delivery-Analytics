@@ -1,0 +1,31 @@
+restaurant_id,restaurant_name,cuisine_type,city,area,commission_rate,avg_prep_time_min,is_active
+1,Spice Route Kitchen,North Indian,Bengaluru,Indiranagar,18.5,18,1
+2,Dakshina Tiffin House,South Indian,Bengaluru,Koramangala,16,14,1
+3,Napoli Woodfired Oven,Italian,Bengaluru,HSR Layout,20,22,1
+4,Wok & Bamboo Express,Pan-Asian,Bengaluru,Whitefield,19,19,1
+5,Nandini Heritage Biryani,Biryani,Bengaluru,Jayanagar,17.5,20,1
+6,Bombay Masala Co.,North Indian,Mumbai,Bandra West,19.5,20,1
+7,Coastal Curry Leaf,South Indian,Mumbai,Lower Parel,17,16,1
+8,Smash & Grill Burgers,Fast Food,Mumbai,Andheri East,21,12,1
+9,Velvet Whisk Patisserie,Desserts,Mumbai,Powai,15.5,11,1
+10,Colaba Artisan Pasta,Italian,Mumbai,Colaba,19,21,1
+11,Dilli Darbar Tandoor,North Indian,Delhi,Connaught Place,18,21,1
+12,Nizam Dum Biryani,Biryani,Delhi,Saket,19,23,1
+13,Bistro 29 Continental,Continental,Delhi,Hauz Khas,20.5,24,1
+14,Crispy Crunch Box,Fast Food,Delhi,Dwarka,22,13,1
+15,Lotus Dragon Dim Sum,Pan-Asian,Delhi,Vasant Kunj,19.5,20,1
+16,Deccan Royal Biryani,Biryani,Hyderabad,Jubilee Hills,17.5,20,1
+17,Charminar Spice Bowl,North Indian,Hyderabad,Madhapur,18,19,1
+18,Tokyo Ramen Bar,Pan-Asian,Hyderabad,Gachibowli,19.5,21,1
+19,Madras Filter Cafe,South Indian,Hyderabad,Banjara Hills,16.5,15,1
+20,Cocoa & Creamery,Desserts,Hyderabad,Kondapur,15,10,1
+21,Deccan Crust Pizzeria,Italian,Pune,Koregaon Park,19,20,1
+22,Saffron Pot Biryani,Biryani,Pune,Baner,18.5,22,1
+23,Olive & Thyme Kitchen,Continental,Pune,Viman Nagar,20,23,1
+24,Sugar Cloud Gelato,Desserts,Pune,Kothrud,15,10,1
+25,Peshwa Royal Thali,North Indian,Pune,Shivajinagar,17.5,18,1
+26,Marina Bay Dosas,South Indian,Chennai,T. Nagar,16,14,1
+27,Chettinad Spice Craft,Biryani,Chennai,Adyar,18.5,21,1
+28,Seoul Street Kitchen,Pan-Asian,Chennai,Velachery,19,18,1
+29,Burger Craft Station,Fast Food,Chennai,Anna Nagar,21,14,1
+30,Bayside Bistro Grill,Continental,Chennai,Besant Nagar,19.5,22,1

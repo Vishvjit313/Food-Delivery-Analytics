@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery Order & Restaurant Performance Analytics",
+  "description": "End-to-end food delivery analytics dashboard analyzing orders, customer retention, restaurant rankings, delivery partner efficiency, cuisines, and SQL/CSV data imports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

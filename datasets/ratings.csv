@@ -1,0 +1,474 @@
+rating_id,order_id,customer_id,restaurant_id,partner_id,food_rating,delivery_rating,overall_rating,review_comment,rated_at
+1,ORD-202603-0001,61,1,19,4.4,3.5,4,Great portion size and authentic flavor.,2026-03-04 20:57:58
+2,ORD-202603-0002,44,10,2,4.2,4.4,4.3,"Hot and fresh packaging, delivered right on time.",2026-03-13 10:18:09
+3,ORD-202609-0003,77,25,17,4.7,4.7,4.7,Prompt delivery even during dinner rush.,2026-09-25 13:37:15
+4,ORD-202606-0004,52,20,16,4.3,4.4,4.3,"Consistently good quality, worth ordering again.",2026-06-20 17:35:40
+5,ORD-202606-0005,32,9,2,5,4.8,4.9,"Consistently good quality, worth ordering again.",2026-06-20 12:33:54
+6,ORD-202607-0006,85,2,1,5,3.7,4.5,Prompt delivery even during dinner rush.,2026-07-19 23:15:01
+7,ORD-202605-0007,45,15,3,4.7,4.7,4.7,"Hot and fresh packaging, delivered right on time.",2026-05-18 02:52:48
+8,ORD-202611-0008,124,17,4,4.1,3.7,3.9,Delivery took longer than estimated due to traffic.,2026-11-20 21:37:35
+9,ORD-202601-0010,148,20,16,4.7,4.8,4.7,Prompt delivery even during dinner rush.,2026-01-07 14:34:20
+10,ORD-202601-0011,13,3,13,4.5,3.4,4.1,Great portion size and authentic flavor.,2026-01-21 00:04:07
+11,ORD-202604-0012,81,15,3,4.1,4.4,4.2,Smooth handoff by the delivery partner.,2026-04-09 23:08:03
+12,ORD-202608-0013,139,3,7,4.1,3.9,4,Smooth handoff by the delivery partner.,2026-08-18 13:41:40
+13,ORD-202610-0015,74,9,2,4.7,4.5,4.6,Great portion size and authentic flavor.,2026-10-13 10:53:12
+14,ORD-202602-0016,86,8,8,4,4.9,4.4,Prompt delivery even during dinner rush.,2026-02-06 14:14:24
+15,ORD-202606-0018,88,18,4,4.5,4.8,4.6,Great portion size and authentic flavor.,2026-06-22 20:30:43
+16,ORD-202603-0019,80,8,2,4.1,4.7,4.3,Great portion size and authentic flavor.,2026-03-25 13:58:15
+17,ORD-202605-0020,15,12,3,4.1,3.7,3.9,Portion could be slightly better for the price.,2026-05-27 13:22:32
+18,ORD-202604-0021,8,8,20,4.2,4.4,4.3,Great portion size and authentic flavor.,2026-04-07 10:24:13
+19,ORD-202607-0025,105,15,3,4.5,4.3,4.4,Smooth handoff by the delivery partner.,2026-07-23 01:31:54
+20,ORD-202601-0026,21,11,9,4.6,4.8,4.7,"Consistently good quality, worth ordering again.",2026-01-20 02:13:16
+21,ORD-202605-0027,87,15,9,4.1,4.6,4.3,Great portion size and authentic flavor.,2026-05-06 19:41:07
+22,ORD-202605-0029,160,17,4,4.4,3.6,4.1,"Hot and fresh packaging, delivered right on time.",2026-05-29 21:36:23
+23,ORD-202601-0030,117,11,15,4.3,4.8,4.5,Smooth handoff by the delivery partner.,2026-01-09 11:47:25
+24,ORD-202605-0032,45,15,15,4.1,4.6,4.3,Smooth handoff by the delivery partner.,2026-05-10 14:20:02
+25,ORD-202602-0033,86,6,14,4.3,3.9,4.1,"Hot and fresh packaging, delivered right on time.",2026-02-01 03:13:32
+26,ORD-202601-0035,79,4,19,4.6,3.6,4.2,Prompt delivery even during dinner rush.,2026-01-18 14:30:29
+27,ORD-202602-0036,112,16,4,5,3.5,4.4,"Consistently good quality, worth ordering again.",2026-02-07 23:54:27
+28,ORD-202608-0038,91,3,7,4.4,3.8,4.2,Smooth handoff by the delivery partner.,2026-08-07 21:52:12
+29,ORD-202605-0039,112,19,16,4,4.3,4.1,Prompt delivery even during dinner rush.,2026-05-13 14:58:12
+30,ORD-202606-0040,20,7,2,4.6,4.4,4.5,Great portion size and authentic flavor.,2026-06-19 09:17:12
+31,ORD-202609-0041,31,4,7,4.2,4.6,4.4,Prompt delivery even during dinner rush.,2026-09-07 15:08:02
+32,ORD-202606-0042,51,15,9,4.3,4.7,4.5,"Consistently good quality, worth ordering again.",2026-06-08 09:42:16
+33,ORD-202601-0044,21,15,9,4,4.7,4.3,Prompt delivery even during dinner rush.,2026-01-27 09:46:28
+34,ORD-202608-0045,89,23,17,4.7,4.1,4.5,"Consistently good quality, worth ordering again.",2026-08-13 14:51:41
+35,ORD-202603-0046,19,4,1,4,4.2,4.1,Great portion size and authentic flavor.,2026-03-18 16:05:34
+36,ORD-202512-0047,92,9,20,4.5,4.8,4.6,Smooth handoff by the delivery partner.,2025-12-21 11:03:33
+37,ORD-202609-0048,37,5,7,4.7,4.9,4.8,Smooth handoff by the delivery partner.,2026-09-08 22:42:20
+38,ORD-202611-0049,14,9,14,4.4,4.8,4.6,Prompt delivery even during dinner rush.,2026-11-11 20:00:20
+39,ORD-202609-0050,96,30,12,4,3.6,3.8,Portion could be slightly better for the price.,2026-09-24 21:54:46
+40,ORD-202607-0051,92,9,2,5,4.1,4.6,"Hot and fresh packaging, delivered right on time.",2026-07-03 13:18:07
+41,ORD-202608-0052,64,18,4,4.7,4.7,4.7,"Hot and fresh packaging, delivered right on time.",2026-08-17 16:23:28
+42,ORD-202602-0053,8,10,2,4.5,4.5,4.5,Smooth handoff by the delivery partner.,2026-02-09 20:54:54
+43,ORD-202610-0054,58,16,4,5,4.6,4.8,Prompt delivery even during dinner rush.,2026-10-24 18:36:18
+44,ORD-202605-0055,66,27,12,4.3,3.5,4,"Hot and fresh packaging, delivered right on time.",2026-05-14 16:54:08
+45,ORD-202606-0056,80,6,14,4.2,3.9,4.1,Great portion size and authentic flavor.,2026-06-13 14:22:15
+46,ORD-202605-0057,78,26,12,4.4,4,4.2,"Consistently good quality, worth ordering again.",2026-05-19 14:37:32
+47,ORD-202604-0058,13,3,13,4.1,4.3,4.2,Prompt delivery even during dinner rush.,2026-04-08 01:42:54
+48,ORD-202607-0059,73,5,7,4.9,4.9,4.9,Great portion size and authentic flavor.,2026-07-10 13:52:21
+49,ORD-202603-0060,61,2,7,5,4.7,4.9,"Consistently good quality, worth ordering again.",2026-03-04 21:02:02
+50,ORD-202610-0061,6,28,12,3.9,4.2,4,"Consistently good quality, worth ordering again.",2026-10-01 02:50:14
+51,ORD-202601-0062,85,1,7,4.8,4.6,4.7,Smooth handoff by the delivery partner.,2026-01-03 21:27:05
+52,ORD-202609-0063,73,2,19,4.8,4.3,4.6,"Consistently good quality, worth ordering again.",2026-09-02 13:14:41
+53,ORD-202605-0064,117,11,15,4.9,3.9,4.5,Smooth handoff by the delivery partner.,2026-05-02 16:03:57
+54,ORD-202606-0065,107,22,11,3.9,3.5,3.7,Delivery took longer than estimated due to traffic.,2026-06-19 22:24:00
+55,ORD-202610-0066,36,26,18,4.9,3.9,4.5,Great portion size and authentic flavor.,2026-10-08 15:19:33
+56,ORD-202605-0067,67,3,19,4.3,3.8,4.1,Great portion size and authentic flavor.,2026-05-04 15:19:36
+57,ORD-202609-0068,26,9,14,4.9,3.7,4.4,"Hot and fresh packaging, delivered right on time.",2026-09-07 15:23:29
+58,ORD-202604-0069,110,7,8,4.8,4.2,4.6,"Consistently good quality, worth ordering again.",2026-04-02 14:37:08
+59,ORD-202603-0070,13,4,19,4.3,3.5,4,Prompt delivery even during dinner rush.,2026-03-26 19:54:05
+60,ORD-202605-0071,20,10,2,4.1,4.5,4.3,"Consistently good quality, worth ordering again.",2026-05-19 10:17:01
+61,ORD-202608-0072,149,25,17,4.2,4.5,4.3,"Consistently good quality, worth ordering again.",2026-08-16 18:56:54
+62,ORD-202610-0073,40,19,10,4,4.6,4.2,"Consistently good quality, worth ordering again.",2026-10-07 02:06:56
+63,ORD-202604-0074,59,24,11,4.4,4.7,4.5,"Hot and fresh packaging, delivered right on time.",2026-04-27 19:36:20
+64,ORD-202605-0075,122,9,14,5,3.8,4.5,"Hot and fresh packaging, delivered right on time.",2026-05-11 23:12:00
+65,ORD-202601-0076,76,18,16,4.8,4.6,4.7,"Hot and fresh packaging, delivered right on time.",2026-01-20 01:49:59
+66,ORD-202512-0077,104,10,14,4.6,3.9,4.3,"Consistently good quality, worth ordering again.",2025-12-16 14:55:02
+67,ORD-202609-0079,43,4,19,4.5,4.2,4.4,Great portion size and authentic flavor.,2026-09-17 20:47:00
+68,ORD-202603-0080,53,24,5,5,5,5,Smooth handoff by the delivery partner.,2026-03-18 12:32:06
+69,ORD-202604-0082,49,2,7,4.7,4.5,4.6,Smooth handoff by the delivery partner.,2026-04-11 09:46:48
+70,ORD-202606-0083,127,3,19,4.8,3.4,4.2,Prompt delivery even during dinner rush.,2026-06-29 14:26:09
+71,ORD-202606-0085,60,28,18,4.2,4.6,4.4,"Hot and fresh packaging, delivered right on time.",2026-06-14 23:38:16
+72,ORD-202605-0089,97,3,19,4.5,4.6,4.5,"Consistently good quality, worth ordering again.",2026-05-08 18:04:41
+73,ORD-202606-0090,14,6,20,4.7,4.1,4.5,"Consistently good quality, worth ordering again.",2026-06-28 20:59:43
+74,ORD-202611-0091,30,26,6,4.9,4.4,4.7,Great portion size and authentic flavor.,2026-11-06 01:07:47
+75,ORD-202607-0092,11,21,5,4.3,3.4,3.9,Delivery took longer than estimated due to traffic.,2026-07-22 15:00:23
+76,ORD-202608-0093,42,27,12,4.2,5,4.5,Prompt delivery even during dinner rush.,2026-08-14 13:42:55
+77,ORD-202601-0095,22,16,4,4.6,3.9,4.3,Prompt delivery even during dinner rush.,2026-01-27 15:49:42
+78,ORD-202602-0096,111,15,9,4.2,4.1,4.2,Smooth handoff by the delivery partner.,2026-02-07 21:21:21
+79,ORD-202605-0097,55,4,7,4.5,4.5,4.5,Smooth handoff by the delivery partner.,2026-05-27 20:35:11
+80,ORD-202601-0098,62,9,14,4.4,4.4,4.4,Smooth handoff by the delivery partner.,2026-01-03 17:32:22
+81,ORD-202608-0099,110,6,8,4.8,4.9,4.8,Prompt delivery even during dinner rush.,2026-08-07 17:49:27
+82,ORD-202605-0100,105,12,3,4.4,3.7,4.1,Smooth handoff by the delivery partner.,2026-05-11 01:32:43
+83,ORD-202609-0102,20,6,2,4.2,4.6,4.4,Smooth handoff by the delivery partner.,2026-09-21 16:43:47
+84,ORD-202610-0103,75,14,9,3.8,4.9,4.2,Smooth handoff by the delivery partner.,2026-10-03 15:08:14
+85,ORD-202604-0104,78,29,12,4.1,4,4.1,Great portion size and authentic flavor.,2026-04-20 14:57:12
+86,ORD-202602-0105,34,19,16,4.4,4.6,4.5,"Hot and fresh packaging, delivered right on time.",2026-02-09 11:21:18
+87,ORD-202601-0106,19,5,19,4.9,3.4,4.3,"Hot and fresh packaging, delivered right on time.",2026-01-09 14:56:30
+88,ORD-202604-0108,79,5,13,4.6,4,4.4,"Consistently good quality, worth ordering again.",2026-04-24 12:31:24
+89,ORD-202611-0109,50,6,8,4.4,3.4,4,Smooth handoff by the delivery partner.,2026-11-12 20:42:07
+90,ORD-202609-0111,68,9,20,4.4,4.9,4.6,Smooth handoff by the delivery partner.,2026-09-10 23:19:47
+91,ORD-202607-0112,81,12,9,4.5,4.1,4.3,"Hot and fresh packaging, delivered right on time.",2026-07-07 01:19:18
+92,ORD-202604-0113,27,11,15,5,3.8,4.5,"Consistently good quality, worth ordering again.",2026-04-20 21:17:54
+93,ORD-202512-0115,68,6,14,4.7,4,4.4,Prompt delivery even during dinner rush.,2025-12-16 20:24:20
+94,ORD-202604-0116,92,7,20,4.2,4.9,4.5,Prompt delivery even during dinner rush.,2026-04-25 13:15:35
+95,ORD-202610-0118,80,10,20,4.2,3.6,4,Smooth handoff by the delivery partner.,2026-10-30 13:42:23
+96,ORD-202609-0120,27,15,15,4.3,4,4.2,Smooth handoff by the delivery partner.,2026-09-06 23:57:38
+97,ORD-202607-0122,51,15,3,4.2,4.3,4.2,"Hot and fresh packaging, delivered right on time.",2026-07-04 17:48:25
+98,ORD-202610-0123,57,11,15,4.9,4.6,4.8,"Consistently good quality, worth ordering again.",2026-10-21 16:55:38
+99,ORD-202602-0124,109,3,1,4.6,4.4,4.5,Great portion size and authentic flavor.,2026-02-16 14:43:38
+100,ORD-202603-0125,109,4,13,3.9,4,3.9,"Packaging was decent, spice level slightly high.",2026-03-07 00:46:06
+101,ORD-202610-0126,76,16,10,4.4,4.4,4.4,"Hot and fresh packaging, delivered right on time.",2026-10-18 00:47:09
+102,ORD-202606-0127,88,20,4,4.7,4.4,4.6,"Consistently good quality, worth ordering again.",2026-06-25 21:22:10
+103,ORD-202601-0128,26,9,2,4.6,4.8,4.7,Great portion size and authentic flavor.,2026-01-16 11:44:51
+104,ORD-202610-0129,93,12,9,4.3,4,4.2,"Hot and fresh packaging, delivered right on time.",2026-10-23 13:57:31
+105,ORD-202601-0131,110,9,20,4.5,4.7,4.6,Great portion size and authentic flavor.,2026-01-25 13:54:17
+106,ORD-202603-0134,58,20,4,4.5,4.9,4.7,"Consistently good quality, worth ordering again.",2026-03-19 10:02:40
+107,ORD-202609-0135,115,5,1,4.7,4,4.4,Prompt delivery even during dinner rush.,2026-09-16 00:02:47
+108,ORD-202512-0136,53,24,11,4.7,4.9,4.8,Prompt delivery even during dinner rush.,2025-12-05 00:13:57
+109,ORD-202611-0137,76,17,10,4.1,4.1,4.1,Great portion size and authentic flavor.,2026-11-14 13:34:16
+110,ORD-202603-0139,128,8,2,3.9,4.7,4.2,Great portion size and authentic flavor.,2026-03-27 14:32:01
+111,ORD-202604-0140,63,12,3,4.7,3.6,4.3,Great portion size and authentic flavor.,2026-04-26 21:40:35
+112,ORD-202608-0141,26,10,14,4.6,3.5,4.2,"Hot and fresh packaging, delivered right on time.",2026-08-09 13:54:22
+113,ORD-202602-0142,29,25,17,4.5,4.5,4.5,"Hot and fresh packaging, delivered right on time.",2026-02-05 00:08:44
+114,ORD-202610-0143,98,8,8,4.5,4.9,4.7,Prompt delivery even during dinner rush.,2026-10-03 21:00:17
+115,ORD-202610-0145,121,1,19,4.5,4.1,4.3,Smooth handoff by the delivery partner.,2026-10-05 14:31:16
+116,ORD-202602-0146,14,8,8,4.5,4.6,4.5,Prompt delivery even during dinner rush.,2026-02-16 23:02:30
+117,ORD-202606-0147,92,7,8,4.3,4,4.2,Smooth handoff by the delivery partner.,2026-06-23 13:51:20
+118,ORD-202606-0148,99,11,15,4.5,3.7,4.2,Prompt delivery even during dinner rush.,2026-06-11 14:11:18
+119,ORD-202603-0150,97,2,13,5,4.5,4.8,Great portion size and authentic flavor.,2026-03-07 15:21:43
+120,ORD-202607-0151,115,1,7,4.5,3.8,4.2,"Hot and fresh packaging, delivered right on time.",2026-07-20 22:46:03
+121,ORD-202512-0152,113,25,5,4.2,4.5,4.3,"Consistently good quality, worth ordering again.",2025-12-29 13:23:50
+122,ORD-202603-0153,62,7,20,4.2,4.1,4.2,Prompt delivery even during dinner rush.,2026-03-03 14:07:58
+123,ORD-202602-0154,68,6,2,4.3,3.8,4.1,Great portion size and authentic flavor.,2026-02-20 21:54:01
+124,ORD-202611-0156,116,6,14,4.4,4.8,4.6,Great portion size and authentic flavor.,2026-11-27 14:32:23
+125,ORD-202601-0157,106,18,10,4.9,4.4,4.7,"Hot and fresh packaging, delivered right on time.",2026-01-30 21:59:11
+126,ORD-202611-0158,81,14,3,4.3,4.4,4.3,"Hot and fresh packaging, delivered right on time.",2026-11-09 15:16:18
+127,ORD-202605-0159,69,14,9,3.7,4.6,4.1,Prompt delivery even during dinner rush.,2026-05-19 19:18:48
+128,ORD-202604-0160,127,5,7,4.6,4,4.4,"Consistently good quality, worth ordering again.",2026-04-16 21:21:46
+129,ORD-202610-0161,15,11,9,4.4,4.3,4.4,"Consistently good quality, worth ordering again.",2026-10-22 19:50:24
+130,ORD-202605-0162,13,3,7,4.7,4.8,4.7,"Hot and fresh packaging, delivered right on time.",2026-05-17 22:31:22
+131,ORD-202601-0163,187,2,19,4.7,4.7,4.7,Prompt delivery even during dinner rush.,2026-01-09 17:03:20
+132,ORD-202512-0164,94,18,10,4.8,4.3,4.6,"Hot and fresh packaging, delivered right on time.",2025-12-03 22:01:53
+133,ORD-202610-0165,20,10,8,4.5,4.7,4.6,Smooth handoff by the delivery partner.,2026-10-04 15:59:44
+134,ORD-202603-0167,14,7,20,4.4,3.7,4.1,Prompt delivery even during dinner rush.,2026-03-27 15:25:47
+135,ORD-202512-0168,3,14,9,3.6,4,3.8,"Packaging was decent, spice level slightly high.",2025-12-14 21:38:47
+136,ORD-202606-0169,101,21,17,4.4,4.3,4.4,"Consistently good quality, worth ordering again.",2026-06-01 14:54:36
+137,ORD-202610-0170,104,7,8,4,4.9,4.4,"Hot and fresh packaging, delivered right on time.",2026-10-05 23:53:46
+138,ORD-202603-0171,67,4,13,3.8,4.3,4,Smooth handoff by the delivery partner.,2026-03-09 21:31:34
+139,ORD-202601-0172,13,2,7,4.3,3.9,4.1,"Hot and fresh packaging, delivered right on time.",2026-01-10 20:25:27
+140,ORD-202602-0174,64,20,4,4.8,4.3,4.6,Smooth handoff by the delivery partner.,2026-02-02 00:17:02
+141,ORD-202607-0175,188,8,14,4.5,4.3,4.4,Prompt delivery even during dinner rush.,2026-07-12 13:55:17
+142,ORD-202611-0176,116,9,14,4.5,4.7,4.6,Smooth handoff by the delivery partner.,2026-11-06 21:26:42
+143,ORD-202610-0177,75,11,15,4.7,4.3,4.5,"Consistently good quality, worth ordering again.",2026-10-02 13:39:01
+144,ORD-202610-0179,76,16,16,4.4,4,4.2,"Hot and fresh packaging, delivered right on time.",2026-10-29 11:20:47
+145,ORD-202611-0180,115,1,19,4.6,4.5,4.6,Smooth handoff by the delivery partner.,2026-11-26 12:03:47
+146,ORD-202607-0181,87,15,15,4.7,5,4.8,"Hot and fresh packaging, delivered right on time.",2026-07-25 12:06:29
+147,ORD-202607-0182,28,19,16,4.4,4.2,4.3,Prompt delivery even during dinner rush.,2026-07-02 14:27:02
+148,ORD-202604-0183,85,5,13,4.6,4.7,4.6,"Hot and fresh packaging, delivered right on time.",2026-04-13 09:17:53
+149,ORD-202607-0184,14,8,2,4.2,4.5,4.3,"Consistently good quality, worth ordering again.",2026-07-09 20:21:23
+150,ORD-202604-0185,51,11,9,4.6,4.1,4.4,Prompt delivery even during dinner rush.,2026-04-29 01:53:38
+151,ORD-202610-0186,62,10,20,4.9,4.6,4.8,"Hot and fresh packaging, delivered right on time.",2026-10-18 02:11:18
+152,ORD-202609-0187,128,6,8,4.7,4.8,4.7,Great portion size and authentic flavor.,2026-09-03 00:14:14
+153,ORD-202609-0188,10,19,4,4.7,4.1,4.5,"Hot and fresh packaging, delivered right on time.",2026-09-18 13:43:47
+154,ORD-202611-0189,37,4,1,4,4.2,4.1,Smooth handoff by the delivery partner.,2026-11-24 22:27:56
+155,ORD-202610-0190,64,20,10,4.8,4.8,4.8,Prompt delivery even during dinner rush.,2026-10-28 13:51:44
+156,ORD-202607-0191,186,27,18,4.5,4.5,4.5,Great portion size and authentic flavor.,2026-07-04 10:25:26
+157,ORD-202512-0192,8,9,2,4.7,4.7,4.7,Great portion size and authentic flavor.,2025-12-27 21:51:48
+158,ORD-202611-0194,123,11,9,4.6,4.6,4.6,Great portion size and authentic flavor.,2026-11-08 14:19:31
+159,ORD-202609-0195,112,18,10,4.9,4.7,4.8,"Consistently good quality, worth ordering again.",2026-09-07 21:01:29
+160,ORD-202602-0196,83,25,5,4.5,5,4.7,Prompt delivery even during dinner rush.,2026-02-18 11:23:40
+161,ORD-202607-0197,141,12,3,4.5,3.6,4.1,"Hot and fresh packaging, delivered right on time.",2026-07-28 22:15:21
+162,ORD-202610-0198,68,8,14,3.8,4.1,3.9,Portion could be slightly better for the price.,2026-10-14 16:00:13
+163,ORD-202603-0199,33,11,3,5,4.3,4.7,Great portion size and authentic flavor.,2026-03-28 09:16:09
+164,ORD-202608-0200,82,17,10,4.3,4.4,4.3,"Consistently good quality, worth ordering again.",2026-08-27 12:39:10
+165,ORD-202605-0201,75,15,9,4.5,4.8,4.6,"Consistently good quality, worth ordering again.",2026-05-14 16:35:22
+166,ORD-202603-0203,154,17,16,4,4.5,4.2,Great portion size and authentic flavor.,2026-03-06 11:27:33
+167,ORD-202604-0205,119,24,5,5,4.3,4.7,"Consistently good quality, worth ordering again.",2026-04-19 18:18:37
+168,ORD-202602-0207,80,8,2,4.3,4.8,4.5,Smooth handoff by the delivery partner.,2026-02-02 15:31:08
+169,ORD-202608-0208,13,2,19,5,4.1,4.6,"Hot and fresh packaging, delivered right on time.",2026-08-23 14:46:34
+170,ORD-202609-0209,57,12,15,4.4,4.4,4.4,"Hot and fresh packaging, delivered right on time.",2026-09-06 20:38:11
+171,ORD-202512-0210,94,18,16,4.2,3.5,3.9,Portion could be slightly better for the price.,2025-12-26 14:05:49
+172,ORD-202608-0211,50,9,14,5,5,5,Prompt delivery even during dinner rush.,2026-08-19 23:57:21
+173,ORD-202602-0212,32,9,20,4.9,4.9,4.9,"Consistently good quality, worth ordering again.",2026-02-09 10:18:39
+174,ORD-202608-0213,37,3,13,4.2,4.6,4.4,"Hot and fresh packaging, delivered right on time.",2026-08-10 21:33:19
+175,ORD-202608-0214,70,17,10,4.6,4.5,4.6,"Hot and fresh packaging, delivered right on time.",2026-08-04 10:58:17
+176,ORD-202610-0216,139,1,13,4.4,4.9,4.6,"Consistently good quality, worth ordering again.",2026-10-27 01:21:05
+177,ORD-202607-0218,64,19,4,4.4,4.9,4.6,Prompt delivery even during dinner rush.,2026-07-03 13:59:18
+178,ORD-202602-0219,45,14,3,4.1,4.7,4.3,"Hot and fresh packaging, delivered right on time.",2026-02-24 17:53:50
+179,ORD-202605-0220,34,18,4,4.3,4.7,4.5,Prompt delivery even during dinner rush.,2026-05-03 13:08:29
+180,ORD-202601-0221,122,6,2,4.4,4.9,4.6,"Hot and fresh packaging, delivered right on time.",2026-01-23 10:57:45
+181,ORD-202602-0222,116,6,8,4.8,4.1,4.5,Smooth handoff by the delivery partner.,2026-02-08 23:01:15
+182,ORD-202607-0223,164,8,2,4.4,4.4,4.4,Great portion size and authentic flavor.,2026-07-13 11:01:20
+183,ORD-202606-0224,52,19,4,4.4,4.3,4.4,Great portion size and authentic flavor.,2026-06-19 14:33:28
+184,ORD-202603-0225,77,23,5,4,4.1,4,Smooth handoff by the delivery partner.,2026-03-05 16:05:06
+185,ORD-202602-0226,21,11,9,4.4,4.8,4.6,Smooth handoff by the delivery partner.,2026-02-16 14:27:21
+186,ORD-202606-0227,90,30,6,4.1,4.1,4.1,"Consistently good quality, worth ordering again.",2026-06-03 10:22:29
+187,ORD-202605-0228,103,5,13,4.6,4.7,4.6,Great portion size and authentic flavor.,2026-05-14 09:55:28
+188,ORD-202608-0231,121,5,1,4.4,4.1,4.3,"Consistently good quality, worth ordering again.",2026-08-24 22:08:34
+189,ORD-202512-0232,70,17,16,4.6,4.5,4.6,"Consistently good quality, worth ordering again.",2025-12-07 15:14:51
+190,ORD-202605-0234,37,4,7,4.3,4.3,4.3,Smooth handoff by the delivery partner.,2026-05-05 09:26:28
+191,ORD-202610-0235,56,10,14,4.9,3.6,4.4,Great portion size and authentic flavor.,2026-10-10 01:01:08
+192,ORD-202611-0236,26,6,14,5,4.2,4.7,Smooth handoff by the delivery partner.,2026-11-14 13:29:07
+193,ORD-202607-0237,188,6,20,4.5,4.4,4.5,"Hot and fresh packaging, delivered right on time.",2026-07-11 15:26:52
+194,ORD-202603-0239,100,20,4,4.9,4.6,4.8,"Hot and fresh packaging, delivered right on time.",2026-03-05 19:50:59
+195,ORD-202603-0240,182,10,14,4.4,4.8,4.6,Prompt delivery even during dinner rush.,2026-03-16 15:47:10
+196,ORD-202608-0242,43,2,7,5,3.7,4.5,Prompt delivery even during dinner rush.,2026-08-02 21:19:50
+197,ORD-202605-0243,19,1,7,4.7,4.3,4.5,Smooth handoff by the delivery partner.,2026-05-29 13:49:30
+198,ORD-202512-0245,70,18,10,4.5,4.5,4.5,Prompt delivery even during dinner rush.,2025-12-09 14:26:53
+199,ORD-202610-0246,41,24,5,4.7,4.4,4.6,"Consistently good quality, worth ordering again.",2026-10-15 21:13:10
+200,ORD-202604-0247,67,1,7,4.4,4.1,4.3,"Consistently good quality, worth ordering again.",2026-04-03 16:05:28
+201,ORD-202604-0248,135,14,9,3.7,4.2,3.9,Delivery took longer than estimated due to traffic.,2026-04-18 22:28:39
+202,ORD-202603-0249,19,2,7,4.3,4.5,4.4,"Hot and fresh packaging, delivered right on time.",2026-03-16 14:23:09
+203,ORD-202607-0250,68,10,14,4.1,4.6,4.3,Prompt delivery even during dinner rush.,2026-07-05 21:49:24
+204,ORD-202607-0251,13,4,13,3.8,3.8,3.8,Food tasted good but arrived slightly delayed.,2026-07-01 20:51:11
+205,ORD-202611-0252,26,7,8,4.8,4.9,4.8,Great portion size and authentic flavor.,2026-11-12 00:31:07
+206,ORD-202605-0254,102,30,6,4.1,4.7,4.3,Great portion size and authentic flavor.,2026-05-14 14:39:06
+207,ORD-202606-0255,124,16,16,5,4.5,4.8,"Hot and fresh packaging, delivered right on time.",2026-06-17 00:53:04
+208,ORD-202611-0256,50,8,2,4.2,3.8,4,"Consistently good quality, worth ordering again.",2026-11-05 11:14:10
+209,ORD-202607-0257,61,3,7,4.5,3.7,4.2,"Consistently good quality, worth ordering again.",2026-07-28 14:46:52
+210,ORD-202606-0261,100,17,4,4.1,4.3,4.2,"Hot and fresh packaging, delivered right on time.",2026-06-04 14:33:30
+211,ORD-202601-0262,46,20,4,4.8,4.6,4.7,Smooth handoff by the delivery partner.,2026-01-02 14:27:36
+212,ORD-202606-0263,51,15,15,4.3,4.4,4.3,"Hot and fresh packaging, delivered right on time.",2026-06-06 09:19:03
+213,ORD-202606-0265,188,6,2,4.6,4,4.4,Great portion size and authentic flavor.,2026-06-30 21:51:20
+214,ORD-202606-0266,64,17,4,4,4,4,Smooth handoff by the delivery partner.,2026-06-22 00:00:44
+215,ORD-202607-0267,2,10,14,4.3,3.5,4,"Consistently good quality, worth ordering again.",2026-07-14 17:33:31
+216,ORD-202605-0268,48,29,6,3.7,4.5,4,Prompt delivery even during dinner rush.,2026-05-29 14:34:20
+217,ORD-202605-0269,7,4,19,4.2,3.5,3.9,"Packaging was decent, spice level slightly high.",2026-05-01 16:10:52
+218,ORD-202606-0271,133,3,1,4.4,3.9,4.2,"Hot and fresh packaging, delivered right on time.",2026-06-26 17:26:24
+219,ORD-202610-0272,60,27,18,4.3,4.7,4.5,Great portion size and authentic flavor.,2026-10-06 00:31:19
+220,ORD-202609-0273,195,12,3,4,4,4,Smooth handoff by the delivery partner.,2026-09-23 16:09:27
+221,ORD-202610-0274,35,24,5,5,4.7,4.9,"Consistently good quality, worth ordering again.",2026-10-03 21:23:39
+222,ORD-202606-0275,74,6,20,4.9,4.3,4.7,"Hot and fresh packaging, delivered right on time.",2026-06-04 01:46:27
+223,ORD-202602-0276,152,8,14,4,3.8,3.9,Food tasted good but arrived slightly delayed.,2026-02-27 15:25:57
+224,ORD-202606-0277,146,9,2,4.9,4.6,4.8,Smooth handoff by the delivery partner.,2026-06-22 18:15:46
+225,ORD-202601-0278,2,10,20,4.4,4.6,4.5,Smooth handoff by the delivery partner.,2026-01-13 13:45:20
+226,ORD-202601-0279,5,23,5,4.5,4.6,4.5,Smooth handoff by the delivery partner.,2026-01-10 11:11:37
+227,ORD-202602-0280,124,16,4,4.8,3.9,4.4,"Hot and fresh packaging, delivered right on time.",2026-02-08 09:38:27
+228,ORD-202608-0281,105,14,15,3.8,4.7,4.2,"Consistently good quality, worth ordering again.",2026-08-07 09:25:49
+229,ORD-202602-0282,9,12,3,4.5,4.3,4.4,"Hot and fresh packaging, delivered right on time.",2026-02-18 21:26:30
+230,ORD-202607-0283,93,11,9,4.3,4.9,4.5,Great portion size and authentic flavor.,2026-07-17 12:13:18
+231,ORD-202606-0284,171,14,9,4.1,4.8,4.4,Great portion size and authentic flavor.,2026-06-14 13:37:50
+232,ORD-202605-0285,15,12,3,4.6,3.4,4.1,Smooth handoff by the delivery partner.,2026-05-05 01:16:47
+233,ORD-202609-0286,105,11,15,4.9,4.3,4.7,"Consistently good quality, worth ordering again.",2026-09-25 21:47:15
+234,ORD-202604-0287,14,10,14,4.9,3.4,4.3,"Hot and fresh packaging, delivered right on time.",2026-04-23 22:32:15
+235,ORD-202607-0288,103,4,7,4.6,4.6,4.6,"Consistently good quality, worth ordering again.",2026-07-12 02:59:40
+236,ORD-202607-0290,18,27,18,4.2,4.3,4.2,Prompt delivery even during dinner rush.,2026-07-22 16:08:29
+237,ORD-202604-0293,29,23,11,4.1,4.5,4.3,Great portion size and authentic flavor.,2026-04-25 13:35:25
+238,ORD-202603-0294,30,26,6,4.7,4.8,4.7,Prompt delivery even during dinner rush.,2026-03-28 15:18:35
+239,ORD-202609-0295,25,5,7,4.6,4.1,4.4,"Consistently good quality, worth ordering again.",2026-09-09 22:04:57
+240,ORD-202608-0296,114,28,6,4,3.8,3.9,Delivery took longer than estimated due to traffic.,2026-08-27 22:19:41
+241,ORD-202606-0298,45,12,15,4.4,4.7,4.5,"Hot and fresh packaging, delivered right on time.",2026-06-12 22:48:14
+242,ORD-202609-0299,177,13,9,4.6,4.8,4.7,Great portion size and authentic flavor.,2026-09-05 02:43:49
+243,ORD-202610-0301,128,10,14,4.1,4,4.1,Smooth handoff by the delivery partner.,2026-10-30 15:54:46
+244,ORD-202610-0302,79,3,7,4.7,4,4.4,"Hot and fresh packaging, delivered right on time.",2026-10-12 17:49:03
+245,ORD-202601-0303,98,9,14,4.4,4.6,4.5,"Hot and fresh packaging, delivered right on time.",2026-01-14 11:14:33
+246,ORD-202611-0304,44,7,2,4.2,4.4,4.3,"Hot and fresh packaging, delivered right on time.",2026-11-01 18:32:06
+247,ORD-202601-0305,28,19,16,4.8,4.8,4.8,Smooth handoff by the delivery partner.,2026-01-01 13:39:17
+248,ORD-202512-0307,112,20,10,4.5,4.6,4.5,"Consistently good quality, worth ordering again.",2025-12-12 22:55:32
+249,ORD-202601-0311,176,7,2,4.1,4.6,4.3,"Consistently good quality, worth ordering again.",2026-01-14 09:15:43
+250,ORD-202611-0313,91,1,1,5,5,5,Prompt delivery even during dinner rush.,2026-11-11 13:15:44
+251,ORD-202603-0314,3,13,3,4,3.5,3.8,Food tasted good but arrived slightly delayed.,2026-03-27 17:23:49
+252,ORD-202602-0315,135,14,3,4.2,4.9,4.5,Great portion size and authentic flavor.,2026-02-14 22:57:56
+253,ORD-202608-0316,58,16,4,5,3.9,4.6,Prompt delivery even during dinner rush.,2026-08-29 14:36:31
+254,ORD-202610-0317,125,23,11,4,4.5,4.2,"Consistently good quality, worth ordering again.",2026-10-02 14:52:04
+255,ORD-202611-0319,86,8,14,4.3,3.7,4.1,Prompt delivery even during dinner rush.,2026-11-09 14:32:50
+256,ORD-202609-0320,121,3,13,4.4,4,4.2,Smooth handoff by the delivery partner.,2026-09-03 21:57:14
+257,ORD-202611-0322,42,30,18,4.1,4.9,4.4,"Hot and fresh packaging, delivered right on time.",2026-11-29 20:36:01
+258,ORD-202611-0325,31,5,7,5,3.9,4.6,Smooth handoff by the delivery partner.,2026-11-09 13:48:13
+259,ORD-202608-0326,119,23,11,4.4,4.8,4.6,"Consistently good quality, worth ordering again.",2026-08-19 09:55:52
+260,ORD-202611-0328,97,3,7,4.6,4.4,4.5,Great portion size and authentic flavor.,2026-11-08 11:51:19
+261,ORD-202610-0331,16,18,10,4.3,4.6,4.4,Smooth handoff by the delivery partner.,2026-10-22 14:06:01
+262,ORD-202610-0332,93,11,15,5,4.6,4.8,Prompt delivery even during dinner rush.,2026-10-07 23:49:31
+263,ORD-202609-0333,28,20,10,4.6,4.5,4.6,Smooth handoff by the delivery partner.,2026-09-01 01:32:35
+264,ORD-202611-0334,49,1,1,4.3,4.6,4.4,Smooth handoff by the delivery partner.,2026-11-30 13:59:26
+265,ORD-202601-0335,98,7,2,4.7,4.1,4.5,Prompt delivery even during dinner rush.,2026-01-18 15:50:18
+266,ORD-202611-0337,99,14,3,3.9,4.3,4.1,Smooth handoff by the delivery partner.,2026-11-27 14:06:16
+267,ORD-202608-0339,25,2,7,5,4.2,4.7,Prompt delivery even during dinner rush.,2026-08-19 20:26:59
+268,ORD-202611-0341,46,18,10,4.1,3.6,3.9,"Packaging was decent, spice level slightly high.",2026-11-03 13:33:02
+269,ORD-202610-0342,78,27,18,4.1,3.9,4,"Hot and fresh packaging, delivered right on time.",2026-10-17 17:04:11
+270,ORD-202603-0343,110,10,14,4.4,3.9,4.2,Prompt delivery even during dinner rush.,2026-03-10 23:02:10
+271,ORD-202601-0344,55,1,1,4.8,3.4,4.2,Prompt delivery even during dinner rush.,2026-01-03 21:07:56
+272,ORD-202604-0345,110,7,8,4.6,4.9,4.7,Prompt delivery even during dinner rush.,2026-04-18 21:56:25
+273,ORD-202608-0346,42,27,6,4.7,4.9,4.8,"Consistently good quality, worth ordering again.",2026-08-05 18:02:30
+274,ORD-202610-0347,85,1,19,4.5,4.3,4.4,Great portion size and authentic flavor.,2026-10-15 01:40:33
+275,ORD-202606-0348,48,26,18,4.5,4.7,4.6,"Consistently good quality, worth ordering again.",2026-06-22 16:15:40
+276,ORD-202601-0351,3,15,9,4.4,4.8,4.6,Prompt delivery even during dinner rush.,2026-01-09 22:27:46
+277,ORD-202611-0352,137,23,11,4,4.6,4.2,"Hot and fresh packaging, delivered right on time.",2026-11-29 23:29:01
+278,ORD-202603-0353,11,21,17,4.9,4.4,4.7,"Consistently good quality, worth ordering again.",2026-03-24 21:26:58
+279,ORD-202608-0354,50,6,14,4.8,3.9,4.4,Prompt delivery even during dinner rush.,2026-08-28 22:00:51
+280,ORD-202606-0355,49,2,7,4.6,4.6,4.6,"Hot and fresh packaging, delivered right on time.",2026-06-04 09:11:45
+281,ORD-202608-0356,13,5,13,4.7,4.2,4.5,Great portion size and authentic flavor.,2026-08-19 15:01:22
+282,ORD-202606-0358,34,17,10,4,3.9,4,Great portion size and authentic flavor.,2026-06-02 20:39:14
+283,ORD-202603-0359,126,29,6,4,5,4.4,Smooth handoff by the delivery partner.,2026-03-01 18:37:01
+284,ORD-202603-0360,35,21,5,4.5,4.3,4.4,"Consistently good quality, worth ordering again.",2026-03-09 00:30:30
+285,ORD-202601-0364,62,10,2,4.8,4.5,4.7,Prompt delivery even during dinner rush.,2026-01-08 16:49:34
+286,ORD-202605-0365,51,13,15,4.2,4.1,4.2,"Consistently good quality, worth ordering again.",2026-05-17 22:29:08
+287,ORD-202601-0366,108,26,6,4.5,5,4.7,Prompt delivery even during dinner rush.,2026-01-17 19:08:47
+288,ORD-202606-0368,8,8,14,4,4.8,4.3,"Consistently good quality, worth ordering again.",2026-06-10 14:50:35
+289,ORD-202604-0369,100,18,16,4.6,4.7,4.6,Smooth handoff by the delivery partner.,2026-04-24 16:51:06
+290,ORD-202603-0370,81,13,3,4.5,4.4,4.5,"Hot and fresh packaging, delivered right on time.",2026-03-25 22:14:05
+291,ORD-202603-0371,127,2,13,4.8,4.7,4.8,"Hot and fresh packaging, delivered right on time.",2026-03-22 20:47:35
+292,ORD-202605-0372,82,17,10,4.2,3.4,3.9,Food tasted good but arrived slightly delayed.,2026-05-19 20:48:12
+293,ORD-202601-0373,109,5,1,4.7,4.6,4.7,Smooth handoff by the delivery partner.,2026-01-25 18:17:41
+294,ORD-202611-0376,85,3,7,4.3,4.3,4.3,Prompt delivery even during dinner rush.,2026-11-02 17:54:33
+295,ORD-202609-0377,57,13,15,4.3,4.6,4.4,Smooth handoff by the delivery partner.,2026-09-30 23:21:52
+296,ORD-202606-0378,38,9,14,5,4.5,4.8,Great portion size and authentic flavor.,2026-06-02 12:56:59
+297,ORD-202608-0379,59,24,5,4.5,4.7,4.6,Great portion size and authentic flavor.,2026-08-19 18:06:13
+298,ORD-202605-0380,137,22,17,4,3.7,3.9,"Packaging was decent, spice level slightly high.",2026-05-02 21:31:44
+299,ORD-202601-0381,76,16,4,4.4,3.5,4,Smooth handoff by the delivery partner.,2026-01-30 01:40:47
+300,ORD-202602-0382,119,22,11,4.4,4.9,4.6,Smooth handoff by the delivery partner.,2026-02-20 16:12:36
+301,ORD-202606-0383,14,7,14,4,3.6,3.8,"Packaging was decent, spice level slightly high.",2026-06-20 14:38:48
+302,ORD-202611-0384,25,1,1,4.7,4.7,4.7,"Consistently good quality, worth ordering again.",2026-11-18 21:27:19
+303,ORD-202609-0385,4,16,16,4.8,4.2,4.6,Smooth handoff by the delivery partner.,2026-09-07 20:48:19
+304,ORD-202604-0386,178,18,10,4.4,4.1,4.3,Great portion size and authentic flavor.,2026-04-01 21:35:29
+305,ORD-202603-0387,54,27,12,4.5,4,4.3,"Consistently good quality, worth ordering again.",2026-03-28 21:46:17
+306,ORD-202607-0388,8,7,14,4.2,4.2,4.2,Great portion size and authentic flavor.,2026-07-09 11:33:32
+307,ORD-202606-0389,49,4,19,4.6,4.4,4.5,"Consistently good quality, worth ordering again.",2026-06-12 21:40:30
+308,ORD-202606-0390,91,5,1,4.4,4.4,4.4,Prompt delivery even during dinner rush.,2026-06-03 01:09:35
+309,ORD-202602-0392,97,1,1,4.2,4.7,4.4,Great portion size and authentic flavor.,2026-02-24 18:43:58
+310,ORD-202601-0393,44,9,2,4.5,4.8,4.6,Prompt delivery even during dinner rush.,2026-01-28 21:49:16
+311,ORD-202609-0394,59,21,11,4.2,4.7,4.4,Prompt delivery even during dinner rush.,2026-09-17 14:27:41
+312,ORD-202604-0395,77,23,17,4.3,3.8,4.1,Prompt delivery even during dinner rush.,2026-04-11 13:29:38
+313,ORD-202608-0396,19,2,7,4.5,4.4,4.5,Prompt delivery even during dinner rush.,2026-08-12 15:38:48
+314,ORD-202610-0397,77,22,17,4.3,3.8,4.1,Great portion size and authentic flavor.,2026-10-29 18:31:57
+315,ORD-202606-0398,44,8,14,4.4,3.5,4,Great portion size and authentic flavor.,2026-06-07 11:33:25
+316,ORD-202603-0399,196,19,16,4.4,5,4.6,Smooth handoff by the delivery partner.,2026-03-14 15:51:34
+317,ORD-202607-0401,110,6,20,4.9,3.4,4.3,"Hot and fresh packaging, delivered right on time.",2026-07-12 21:05:00
+318,ORD-202604-0402,117,14,9,4.3,4.8,4.5,Prompt delivery even during dinner rush.,2026-04-09 22:33:51
+319,ORD-202605-0403,158,10,2,4.8,3.8,4.4,"Consistently good quality, worth ordering again.",2026-05-24 18:58:45
+320,ORD-202610-0404,19,1,19,4.5,3.8,4.2,Prompt delivery even during dinner rush.,2026-10-25 21:15:00
+321,ORD-202607-0406,165,12,15,4.7,4.6,4.7,Prompt delivery even during dinner rush.,2026-07-20 18:39:24
+322,ORD-202608-0407,104,8,14,4.4,4.7,4.5,"Consistently good quality, worth ordering again.",2026-08-30 00:27:18
+323,ORD-202605-0408,70,18,4,4.8,4.8,4.8,"Consistently good quality, worth ordering again.",2026-05-08 01:17:17
+324,ORD-202610-0410,124,16,10,4.7,3.7,4.3,Great portion size and authentic flavor.,2026-10-23 19:43:06
+325,ORD-202611-0411,14,8,14,4.5,4.1,4.3,Prompt delivery even during dinner rush.,2026-11-13 15:20:15
+326,ORD-202603-0412,4,19,16,4.6,4,4.4,"Hot and fresh packaging, delivered right on time.",2026-03-24 16:05:28
+327,ORD-202605-0413,20,9,2,5,4,4.6,Prompt delivery even during dinner rush.,2026-05-23 15:23:27
+328,ORD-202605-0414,98,10,8,4.7,3.7,4.3,Smooth handoff by the delivery partner.,2026-05-08 00:00:55
+329,ORD-202604-0415,61,1,1,4.6,4.9,4.7,"Consistently good quality, worth ordering again.",2026-04-23 11:17:17
+330,ORD-202609-0416,3,11,15,4.8,4.7,4.8,Great portion size and authentic flavor.,2026-09-24 17:06:33
+331,ORD-202606-0420,121,5,13,4.8,3.8,4.4,"Consistently good quality, worth ordering again.",2026-06-21 20:01:10
+332,ORD-202604-0421,76,19,10,4.7,4.6,4.7,Smooth handoff by the delivery partner.,2026-04-01 22:07:28
+333,ORD-202608-0423,160,20,16,4.8,4.2,4.6,Prompt delivery even during dinner rush.,2026-08-07 16:34:31
+334,ORD-202609-0424,69,14,3,3.7,4.7,4.1,"Consistently good quality, worth ordering again.",2026-09-27 14:44:23
+335,ORD-202604-0425,169,3,1,4.2,4.3,4.2,"Hot and fresh packaging, delivered right on time.",2026-04-29 13:50:22
+336,ORD-202609-0426,121,1,13,4.2,4.1,4.2,"Consistently good quality, worth ordering again.",2026-09-25 23:53:45
+337,ORD-202611-0427,2,6,20,4.5,4,4.3,"Consistently good quality, worth ordering again.",2026-11-13 14:43:30
+338,ORD-202607-0428,123,14,3,3.8,4.5,4.1,"Hot and fresh packaging, delivered right on time.",2026-07-30 21:22:51
+339,ORD-202606-0430,28,16,10,4.4,3.5,4,"Hot and fresh packaging, delivered right on time.",2026-06-04 21:09:36
+340,ORD-202607-0431,52,18,10,4.3,4.3,4.3,Great portion size and authentic flavor.,2026-07-29 01:25:08
+341,ORD-202603-0433,87,13,3,4.5,4.1,4.3,Prompt delivery even during dinner rush.,2026-03-13 22:11:40
+342,ORD-202606-0434,85,5,13,5,4.2,4.7,"Hot and fresh packaging, delivered right on time.",2026-06-01 21:27:59
+343,ORD-202608-0435,26,7,2,4.1,4.5,4.3,Prompt delivery even during dinner rush.,2026-08-03 13:47:36
+344,ORD-202512-0436,20,8,2,3.7,4.3,3.9,Food tasted good but arrived slightly delayed.,2025-12-03 10:51:24
+345,ORD-202604-0437,97,2,7,5,4.5,4.8,Smooth handoff by the delivery partner.,2026-04-05 14:20:28
+346,ORD-202605-0438,46,16,16,4.6,4.9,4.7,"Hot and fresh packaging, delivered right on time.",2026-05-22 20:09:33
+347,ORD-202609-0439,109,3,19,4.5,4,4.3,"Hot and fresh packaging, delivered right on time.",2026-09-19 02:54:27
+348,ORD-202610-0442,152,10,14,4.8,4.5,4.7,"Consistently good quality, worth ordering again.",2026-10-26 21:26:18
+349,ORD-202611-0443,13,4,13,4.6,4.7,4.6,Prompt delivery even during dinner rush.,2026-11-19 15:04:47
+350,ORD-202601-0444,81,12,15,4.1,3.5,3.9,Delivery took longer than estimated due to traffic.,2026-01-04 17:51:57
+351,ORD-202512-0445,39,11,9,5,4.2,4.7,"Consistently good quality, worth ordering again.",2025-12-18 21:46:31
+352,ORD-202604-0449,54,27,12,4.1,3.7,3.9,"Packaging was decent, spice level slightly high.",2026-04-28 17:01:40
+353,ORD-202609-0450,16,19,4,4.5,4.9,4.7,"Hot and fresh packaging, delivered right on time.",2026-09-25 12:48:13
+354,ORD-202611-0451,190,17,4,4.3,3.4,3.9,Portion could be slightly better for the price.,2026-11-22 15:25:09
+355,ORD-202610-0452,91,1,13,4.2,4.1,4.2,Prompt delivery even during dinner rush.,2026-10-12 03:12:19
+356,ORD-202608-0453,62,6,2,4.2,4.9,4.5,Smooth handoff by the delivery partner.,2026-08-10 14:14:01
+357,ORD-202603-0454,4,16,4,4.7,3.5,4.2,"Hot and fresh packaging, delivered right on time.",2026-03-04 18:18:27
+358,ORD-202606-0455,25,1,19,4.6,4.5,4.6,Great portion size and authentic flavor.,2026-06-01 14:45:49
+359,ORD-202603-0456,124,18,16,4.8,4.3,4.6,"Consistently good quality, worth ordering again.",2026-03-25 11:42:18
+360,ORD-202609-0458,56,10,14,4.5,4.1,4.3,Smooth handoff by the delivery partner.,2026-09-08 22:07:17
+361,ORD-202609-0459,69,13,9,4.3,4.1,4.2,Great portion size and authentic flavor.,2026-09-15 00:36:17
+362,ORD-202605-0460,55,2,19,4.5,4.9,4.7,"Hot and fresh packaging, delivered right on time.",2026-05-28 23:54:41
+363,ORD-202611-0462,61,2,1,4.7,4.8,4.7,"Consistently good quality, worth ordering again.",2026-11-25 16:36:12
+364,ORD-202608-0463,6,27,18,4.3,4.1,4.2,Smooth handoff by the delivery partner.,2026-08-27 15:47:24
+365,ORD-202611-0464,22,17,4,3.9,3.4,3.7,"Packaging was decent, spice level slightly high.",2026-11-20 22:38:00
+366,ORD-202605-0465,122,10,2,4.4,3.7,4.1,Smooth handoff by the delivery partner.,2026-05-29 16:08:22
+367,ORD-202602-0466,101,25,5,4.7,4.5,4.6,Great portion size and authentic flavor.,2026-02-17 17:32:54
+368,ORD-202607-0467,122,9,2,5,4.8,4.9,"Hot and fresh packaging, delivered right on time.",2026-07-23 14:06:36
+369,ORD-202609-0468,101,23,11,4.1,3.5,3.9,Portion could be slightly better for the price.,2026-09-30 23:32:48
+370,ORD-202606-0470,42,27,18,4.8,3.5,4.3,"Consistently good quality, worth ordering again.",2026-06-01 10:32:39
+371,ORD-202604-0472,121,4,1,3.9,4.4,4.1,"Consistently good quality, worth ordering again.",2026-04-06 18:46:38
+372,ORD-202608-0473,22,17,4,4.7,4.5,4.6,Great portion size and authentic flavor.,2026-08-27 14:05:03
+373,ORD-202603-0474,79,4,7,4.2,4.3,4.2,"Hot and fresh packaging, delivered right on time.",2026-03-28 14:13:02
+374,ORD-202611-0475,47,25,5,4.5,3.5,4.1,Smooth handoff by the delivery partner.,2026-11-16 21:12:52
+375,ORD-202609-0476,38,7,20,4.1,4,4.1,Prompt delivery even during dinner rush.,2026-09-18 14:39:03
+376,ORD-202603-0477,105,11,15,5,3.8,4.5,"Consistently good quality, worth ordering again.",2026-03-13 21:19:25
+377,ORD-202604-0478,27,15,9,4.3,4.3,4.3,Smooth handoff by the delivery partner.,2026-04-27 21:57:59
+378,ORD-202605-0479,114,30,12,4.8,4.5,4.7,Prompt delivery even during dinner rush.,2026-05-16 13:31:11
+379,ORD-202607-0480,74,6,20,4.9,4,4.5,"Consistently good quality, worth ordering again.",2026-07-16 21:47:43
+380,ORD-202512-0482,38,8,8,4.4,4.9,4.6,Prompt delivery even during dinner rush.,2025-12-26 14:59:00
+381,ORD-202606-0483,101,23,5,4.6,3.8,4.3,"Hot and fresh packaging, delivered right on time.",2026-06-27 14:52:34
+382,ORD-202601-0484,51,12,3,4.2,3.5,3.9,Delivery took longer than estimated due to traffic.,2026-01-08 20:29:28
+383,ORD-202606-0486,16,20,10,4.5,4.9,4.7,Great portion size and authentic flavor.,2026-06-28 14:17:57
+384,ORD-202611-0487,93,13,15,4.2,4.7,4.4,Smooth handoff by the delivery partner.,2026-11-30 18:35:52
+385,ORD-202606-0488,103,1,7,4.5,4.4,4.5,Smooth handoff by the delivery partner.,2026-06-28 15:17:31
+386,ORD-202605-0489,68,8,14,4.4,4.8,4.6,Great portion size and authentic flavor.,2026-05-17 21:12:43
+387,ORD-202607-0490,100,16,16,5,4.5,4.8,Prompt delivery even during dinner rush.,2026-07-01 12:18:30
+388,ORD-202607-0491,30,29,18,3.7,4.6,4.1,"Hot and fresh packaging, delivered right on time.",2026-07-09 21:33:21
+389,ORD-202604-0492,121,2,7,4.5,4.3,4.4,Great portion size and authentic flavor.,2026-04-13 22:39:52
+390,ORD-202606-0493,26,6,8,4.3,4.4,4.3,"Consistently good quality, worth ordering again.",2026-06-11 13:40:58
+391,ORD-202609-0494,81,15,15,4,4.4,4.2,Great portion size and authentic flavor.,2026-09-05 13:21:47
+392,ORD-202602-0495,73,4,1,4.2,3.5,3.9,Delivery took longer than estimated due to traffic.,2026-02-28 13:45:53
+393,ORD-202608-0496,8,10,14,4.7,4.8,4.7,"Consistently good quality, worth ordering again.",2026-08-16 11:18:14
+394,ORD-202608-0497,46,18,16,4.3,3.7,4.1,Prompt delivery even during dinner rush.,2026-08-18 21:07:42
+395,ORD-202608-0498,80,10,8,4.9,4.1,4.6,Great portion size and authentic flavor.,2026-08-01 21:02:18
+396,ORD-202601-0499,2,6,2,5,4.7,4.9,"Consistently good quality, worth ordering again.",2026-01-28 09:06:07
+397,ORD-202604-0500,32,6,2,4.2,3.7,4,Great portion size and authentic flavor.,2026-04-30 14:30:41
+398,ORD-202609-0502,79,2,19,4.5,4.7,4.6,"Hot and fresh packaging, delivered right on time.",2026-09-06 13:29:23
+399,ORD-202607-0503,14,8,14,3.7,4.3,3.9,"Packaging was decent, spice level slightly high.",2026-07-13 14:25:01
+400,ORD-202607-0504,188,10,20,4.2,4.2,4.2,Prompt delivery even during dinner rush.,2026-07-16 16:39:03
+401,ORD-202611-0505,67,5,1,5,4.4,4.8,"Consistently good quality, worth ordering again.",2026-11-25 15:33:26
+402,ORD-202607-0508,68,7,14,4.7,3.8,4.3,Prompt delivery even during dinner rush.,2026-07-09 14:00:32
+403,ORD-202608-0510,113,24,17,4.9,4.4,4.7,Great portion size and authentic flavor.,2026-08-06 01:08:25
+404,ORD-202512-0511,115,1,7,4.5,4.9,4.7,Great portion size and authentic flavor.,2025-12-15 15:25:59
+405,ORD-202601-0513,170,10,2,4.7,3.9,4.4,Smooth handoff by the delivery partner.,2026-01-09 21:44:34
+406,ORD-202603-0514,7,1,19,4.7,3.6,4.3,Smooth handoff by the delivery partner.,2026-03-20 16:04:45
+407,ORD-202606-0515,68,9,20,4.5,4.7,4.6,Smooth handoff by the delivery partner.,2026-06-11 13:15:08
+408,ORD-202610-0517,104,8,20,4.3,4.8,4.5,Great portion size and authentic flavor.,2026-10-07 01:03:26
+409,ORD-202607-0519,108,28,18,4.4,4.8,4.6,"Hot and fresh packaging, delivered right on time.",2026-07-14 00:57:18
+410,ORD-202603-0520,195,12,9,4.2,4.2,4.2,Smooth handoff by the delivery partner.,2026-03-17 13:45:56
+411,ORD-202608-0521,52,19,10,4.5,4,4.3,"Consistently good quality, worth ordering again.",2026-08-02 13:34:32
+412,ORD-202608-0522,109,4,19,4.2,4.6,4.4,"Hot and fresh packaging, delivered right on time.",2026-08-19 19:30:42
+413,ORD-202602-0523,44,7,14,4.7,4.7,4.7,Great portion size and authentic flavor.,2026-02-13 09:01:54
+414,ORD-202606-0524,9,12,3,4.6,4.1,4.4,"Consistently good quality, worth ordering again.",2026-06-07 23:36:12
+415,ORD-202608-0525,49,4,19,3.9,4.2,4,"Hot and fresh packaging, delivered right on time.",2026-08-10 13:07:50
+416,ORD-202601-0528,26,8,20,4.4,4.9,4.6,Prompt delivery even during dinner rush.,2026-01-13 00:00:15
+417,ORD-202605-0529,27,11,3,5,4.5,4.8,"Hot and fresh packaging, delivered right on time.",2026-05-12 00:25:45
+418,ORD-202611-0531,80,10,2,4.4,3.7,4.1,Great portion size and authentic flavor.,2026-11-01 20:54:21
+419,ORD-202607-0532,9,12,3,4.8,5,4.9,Smooth handoff by the delivery partner.,2026-07-25 15:09:23
+420,ORD-202601-0533,109,1,13,4.7,4.4,4.6,"Hot and fresh packaging, delivered right on time.",2026-01-06 20:07:19
+421,ORD-202604-0534,8,6,20,4.8,3.8,4.4,"Hot and fresh packaging, delivered right on time.",2026-04-01 21:01:43
+422,ORD-202608-0536,81,11,3,4.7,3.5,4.2,Great portion size and authentic flavor.,2026-08-02 22:36:45
+423,ORD-202604-0538,77,24,5,5,4.9,5,"Hot and fresh packaging, delivered right on time.",2026-04-11 23:01:27
+424,ORD-202604-0539,13,3,1,4.7,4.9,4.8,"Hot and fresh packaging, delivered right on time.",2026-04-18 18:46:01
+425,ORD-202512-0540,26,10,8,4.9,4,4.5,"Hot and fresh packaging, delivered right on time.",2025-12-11 19:13:50
+426,ORD-202602-0542,68,6,20,4.2,3.5,3.9,Food tasted good but arrived slightly delayed.,2026-02-16 12:16:04
+427,ORD-202606-0543,34,18,10,4.7,3.8,4.3,"Hot and fresh packaging, delivered right on time.",2026-06-24 15:41:59
+428,ORD-202608-0544,23,23,5,4.6,4.6,4.6,Smooth handoff by the delivery partner.,2026-08-07 13:55:35
+429,ORD-202604-0545,125,21,11,5,4.6,4.8,Great portion size and authentic flavor.,2026-04-02 16:06:52
+430,ORD-202610-0548,52,16,4,5,3.8,4.5,Smooth handoff by the delivery partner.,2026-10-03 15:34:48
+431,ORD-202605-0549,55,5,19,4.3,5,4.6,Prompt delivery even during dinner rush.,2026-05-05 14:16:17
+432,ORD-202602-0550,79,1,1,4.4,4.3,4.4,Great portion size and authentic flavor.,2026-02-24 09:06:34
+433,ORD-202512-0551,112,18,4,4.4,4.9,4.6,Great portion size and authentic flavor.,2025-12-13 22:32:06
+434,ORD-202602-0553,109,2,7,5,4.4,4.8,"Hot and fresh packaging, delivered right on time.",2026-02-08 20:47:53
+435,ORD-202607-0554,62,7,20,4.1,4.2,4.1,"Hot and fresh packaging, delivered right on time.",2026-07-04 16:24:09
+436,ORD-202607-0555,117,15,3,4.1,4.9,4.4,Prompt delivery even during dinner rush.,2026-07-30 20:02:43
+437,ORD-202610-0556,52,18,10,4.5,4.6,4.5,Smooth handoff by the delivery partner.,2026-10-06 09:11:24
+438,ORD-202607-0558,94,16,4,4.7,3.8,4.3,"Consistently good quality, worth ordering again.",2026-07-18 15:07:18
+439,ORD-202609-0559,121,5,19,4.5,4.3,4.4,Great portion size and authentic flavor.,2026-09-17 17:48:04
+440,ORD-202607-0560,80,8,2,3.9,3.8,3.9,Portion could be slightly better for the price.,2026-07-09 21:47:11
+441,ORD-202605-0561,74,7,8,4.7,3.7,4.3,"Consistently good quality, worth ordering again.",2026-05-26 17:40:09
+442,ORD-202601-0562,53,22,17,4,4.9,4.4,"Consistently good quality, worth ordering again.",2026-01-24 18:28:38
+443,ORD-202605-0563,94,16,4,4.7,4.7,4.7,Smooth handoff by the delivery partner.,2026-05-22 00:17:28
+444,ORD-202606-0565,65,22,5,4.1,4.8,4.4,Prompt delivery even during dinner rush.,2026-06-09 22:38:40
+445,ORD-202601-0567,129,14,3,3.5,4.5,3.9,Portion could be slightly better for the price.,2026-01-26 11:31:23
+446,ORD-202608-0568,13,3,7,4.1,4.5,4.3,Great portion size and authentic flavor.,2026-08-09 13:20:41
+447,ORD-202608-0569,75,11,9,5,3.4,4.4,Prompt delivery even during dinner rush.,2026-08-11 15:18:10
+448,ORD-202611-0570,31,5,1,4.5,4.6,4.5,Smooth handoff by the delivery partner.,2026-11-10 16:10:48
+449,ORD-202608-0573,122,9,8,5,4.5,4.8,Great portion size and authentic flavor.,2026-08-02 14:59:35
+450,ORD-202609-0575,13,1,1,4.9,4.3,4.7,"Hot and fresh packaging, delivered right on time.",2026-09-10 13:53:45
+451,ORD-202602-0576,31,2,1,4.5,5,4.7,"Hot and fresh packaging, delivered right on time.",2026-02-26 22:04:23
+452,ORD-202607-0577,76,19,4,4.5,4.8,4.6,"Hot and fresh packaging, delivered right on time.",2026-07-24 19:40:46
+453,ORD-202611-0578,109,4,7,4.5,3.9,4.3,Great portion size and authentic flavor.,2026-11-11 20:20:10
+454,ORD-202602-0579,1,1,1,5,4.6,4.8,Prompt delivery even during dinner rush.,2026-02-07 20:42:05
+455,ORD-202601-0580,85,3,1,4.1,4.4,4.2,Great portion size and authentic flavor.,2026-01-27 02:33:24
+456,ORD-202604-0581,73,5,13,4.6,4,4.4,Great portion size and authentic flavor.,2026-04-09 11:26:55
+457,ORD-202608-0582,16,16,4,4.8,4,4.5,Great portion size and authentic flavor.,2026-08-23 20:21:51
+458,ORD-202602-0583,77,22,5,4.2,3.9,4.1,Great portion size and authentic flavor.,2026-02-07 21:56:36
+459,ORD-202604-0584,1,2,13,4.8,3.7,4.4,Smooth handoff by the delivery partner.,2026-04-22 14:30:58
+460,ORD-202610-0585,184,20,10,4.3,4.4,4.3,Smooth handoff by the delivery partner.,2026-10-14 14:23:26
+461,ORD-202512-0586,35,25,11,4.2,4,4.1,"Consistently good quality, worth ordering again.",2025-12-24 15:07:53
+462,ORD-202610-0589,85,2,1,4.9,3.7,4.4,"Hot and fresh packaging, delivered right on time.",2026-10-17 13:28:28
+463,ORD-202605-0590,92,6,8,4.8,4.6,4.7,Smooth handoff by the delivery partner.,2026-05-23 13:43:51
+464,ORD-202604-0591,35,24,17,4.4,4.9,4.6,Great portion size and authentic flavor.,2026-04-29 15:54:57
+465,ORD-202607-0592,106,19,16,4,4.5,4.2,"Hot and fresh packaging, delivered right on time.",2026-07-22 15:37:15
+466,ORD-202605-0593,121,5,7,4.4,4,4.2,Prompt delivery even during dinner rush.,2026-05-09 21:58:55
+467,ORD-202606-0594,51,13,15,4.3,4.4,4.3,"Consistently good quality, worth ordering again.",2026-06-21 21:10:57
+468,ORD-202604-0595,2,7,2,4.5,4.4,4.5,Prompt delivery even during dinner rush.,2026-04-22 16:55:29
+469,ORD-202512-0596,19,1,13,4.6,3.8,4.3,Great portion size and authentic flavor.,2025-12-17 14:37:08
+470,ORD-202609-0597,36,29,18,3.8,4.2,4,"Consistently good quality, worth ordering again.",2026-09-20 19:29:31
+471,ORD-202609-0598,39,11,3,4.3,4.8,4.5,Prompt delivery even during dinner rush.,2026-09-19 22:58:12
+472,ORD-202608-0599,34,17,16,4.7,3.4,4.2,Great portion size and authentic flavor.,2026-08-11 15:09:50
+473,ORD-202604-0600,166,18,16,4.8,4.3,4.6,"Hot and fresh packaging, delivered right on time.",2026-04-16 13:14:12

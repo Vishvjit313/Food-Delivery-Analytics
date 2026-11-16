@@ -1,0 +1,7 @@
+order_id,customer_name,customer_email,restaurant_name,cuisine_type,partner_name,order_datetime,city,order_amount,delivery_fee,discount_amount,total_amount,payment_method,order_status,delivery_time_min,distance_km,overall_rating
+ORD-IMP-1001,Rohan Malhotra,rohan.m@example.test,Spice Route Kitchen,North Indian,Rajesh Kumar,2026-11-12 19:45:00,Bengaluru,520,35,40,515,UPI,Completed,27,3.4,4.8
+ORD-IMP-1002,Meera Iyer,meera.i@example.test,Napoli Woodfired Oven,Italian,Suresh Babu,2026-11-12 20:15:00,Bengaluru,740,49,0,789,Credit Card,Completed,34,5.2,4.6
+ORD-IMP-1003,Kabir Verma,kabir.v@example.test,Bombay Masala Co.,North Indian,Imran Sheikh,2026-11-13 13:10:00,Mumbai,480,25,30,475,Wallet,Completed,24,2.1,4.7
+ORD-IMP-1004,Ananya Nair,ananya.n@example.test,Deccan Royal Biryani,Biryani,Dinesh Reddy,2026-11-13 21:05:00,Hyderabad,440,35,0,475,UPI,Completed,44,6.1,3.9
+ORD-IMP-1005,Vikram Patel,vikram.p@example.test,Dilli Darbar Tandoor,North Indian,Deepak Yadav,2026-11-14 20:30:00,Delhi,610,35,50,595,Debit Card,Cancelled,,4,
+ORD-IMP-1006,Saanvi Kulkarni,saanvi.k@example.test,Deccan Crust Pizzeria,Italian,Amit Deshmukh,2026-11-15 19:20:00,Pune,590,25,0,615,UPI,Completed,26,2.8,4.9

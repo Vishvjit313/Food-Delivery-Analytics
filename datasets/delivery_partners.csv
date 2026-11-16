@@ -1,0 +1,21 @@
+partner_id,partner_name,vehicle_type,city,joining_date,is_active
+1,Rajesh Kumar,Bike,Bengaluru,2025-12-02,1
+2,Suresh Babu,Scooter,Mumbai,2025-09-03,1
+3,Manoj Tiwari,EV Scooter,Delhi,2025-06-04,1
+4,Deepak Yadav,Bicycle,Hyderabad,2025-05-05,1
+5,Prakash Nair,Bike,Pune,2025-06-06,1
+6,Imran Sheikh,Scooter,Chennai,2025-10-07,1
+7,Ramesh Gowda,EV Scooter,Bengaluru,2025-09-08,1
+8,Karthik Raja,Bicycle,Mumbai,2025-10-09,1
+9,Sanjay Chauhan,Bike,Delhi,2025-03-10,1
+10,Amit Deshmukh,Scooter,Hyderabad,2025-12-11,1
+11,Harish Verma,EV Scooter,Pune,2025-07-12,1
+12,Vikas Pawar,Bicycle,Chennai,2025-07-13,1
+13,Dinesh Reddy,Bike,Bengaluru,2025-03-14,1
+14,Farhan Ali,Scooter,Mumbai,2025-09-15,1
+15,Ganesh Shetty,EV Scooter,Delhi,2025-11-16,1
+16,Mohan Das,Bicycle,Hyderabad,2025-12-17,1
+17,Naveen Joshi,Bike,Pune,2025-05-18,1
+18,Vinod Pillai,Scooter,Chennai,2025-02-19,1
+19,Rakesh Solanki,EV Scooter,Bengaluru,2025-02-20,1
+20,Arvind Krishnan,Bicycle,Mumbai,2025-02-21,1
